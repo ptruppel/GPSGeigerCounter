@@ -1,12 +1,12 @@
 # GPS Geiger Counter Project
 
-The code on this respository is for the use of a GPS Geiger Counter. This project was performed from fall 2018 to spring 2019 as a freshman project in the inVenTs studio. All code, trial runs, and documents are included on this repository.
+The code on this respository is for the use of a GPS Geiger Counter. This project was performed from fall 2018 to spring 2019 as a freshman project in the InVenTs Studio. All code, trial runs, and documents are included on this repository.
 
 Parts:
 
-Arduino Compatable Gieger Counter
+Arduino Compatible Geiger Counter
 
-Arduino UNO (in studio or order more)
+Arduino UNO
 
 Ultimate GPS Datalogger
 
@@ -18,6 +18,6 @@ Epoxy / glue
 
 Lock & Hinges
 
-Portable battery pack for arduino
+Portable battery pack for Arduino
 
 Printer cables
