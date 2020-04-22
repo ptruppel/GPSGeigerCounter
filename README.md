@@ -2,6 +2,9 @@
 
 The code on this respository is for the use of a GPS Geiger Counter. This project was performed from fall 2018 to spring 2019 as a freshman project in the InVenTs Studio. All code, trial runs, and documents are included on this repository.
 
+
+![GPS Geiger Counter](https://github.com/ptruppel/GPSGeigerCounter/blob/master/Photos/GC_Photo.JPG)
+
 ## Getting Started
 
 Open up Arduino and simply upload this code onto the required hardware. 
